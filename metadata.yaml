@@ -1,0 +1,32 @@
+_repo: Le-journal-d-une-pensionnaire-en-vacances_19152
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dondel Du Faouëdic, Noémie
+    aliases:
+    - Faouëdic, Noémie Dondel Du
+    - Le Coq de Kerneven, Noémie
+    - Dondel Du Faouedic, Noemie
+    birthdate: 1834
+    deathdate: 1915
+    gutenberg_agent_id: '8507'
+    url: http://www.gutenberg.org/2009/agents/8507
+    wikipedia: https://fr.wikipedia.org/wiki/Noémie_Dondel_du_Faouëdic
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2006-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19152'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Voyages and travels'
+title: Le journal d'une pensionnaire en vacances
+url: http://www.gutenberg.org/ebooks/19152
